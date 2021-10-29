@@ -1,5 +1,5 @@
 # Machine-Learning-for-Time-Series-with-Python
-Machine Learning for Time-Series with Python.Published by Packt
+
 [<img src="./.other/cover.png" width="248">](https://www.amazon.com/Machine-Learning-Time-Python-state/dp/1801819629/)
 
 Become proficient in deriving insights from time-series data and analyzing a model’s performance
