@@ -29,14 +29,20 @@ This book is ideal for data analysts, data scientists, and Python developers who
 
 ## Table of Contents
 1. Introduction to Time-Series with Python
-1. Time-Series Analysis with Python
-1. Preprocessing Time-Series
-1. Introduction to Machine Learning for Time-Series
-1. Forecasting with Moving Averages and Autoregressive Models
-1. Unsupervised Methods for Time-Series
-1. Machine Learning Models for Time-Series 
-1. Online Learning for Time-Series
-1. Probabilistic Models for Time-Series
-1. Deep Learning for Time-Series
-1. Reinforcement Learning for Time-Series
-1. Multivariate Forecasting
+2. Time-Series Analysis with Python
+3. Preprocessing Time-Series
+4. Introduction to Machine Learning for Time-Series
+5. Forecasting with Moving Averages and Autoregressive Models
+6. Unsupervised Methods for Time-Series
+7. Machine Learning Models for Time-Series 
+8. Online Learning for Time-Series
+9. Probabilistic Models for Time-Series
+10. Deep Learning for Time-Series
+11. Reinforcement Learning for Time-Series
+12. Multivariate Forecasting
+
+## Author Notes
+
+I've heard from a few people struggling with tsfresh and featuretools for chapter 3.
+
+[My PR](https://github.com/blue-yonder/tsfresh/pull/912) for tsfresh was merged mid-December fixing a version incompatibility - featuretools went through many breaking changes with the release of version 1.0.0 (congratulations to the team!). Please see how to fix any problems in the [discussion here](https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python/issues/2).
