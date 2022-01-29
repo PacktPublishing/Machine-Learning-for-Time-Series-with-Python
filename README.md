@@ -10,10 +10,9 @@ Become proficient in deriving insights from time-series data and analyzing a mod
 * [Packt Publishing](https://www.packtpub.com/product/machine-learning-for-time-series-with-python/9781801819626)
 
 ## Key Features
-Explore popular and modern machine learning methods including the latest online and deep learning algorithms
-Learn to increase the accuracy of your predictions by matching the right model with the right problem
-Master time-series via real-world case studies on operations management, digital marketing, finance, and healthcare
-The updated edition enables you to implement evergreen frameworks that will stay relevant as Power BI updates. Get familiar with Power BI development tools and services by going deep into the data connectivity, transformation, modeling, visualization, and analytical capabilities of Power BI. Microsoft Power BI Cookbook, Second Edition enables Power BI’s functional programming languages of DAX and M to come alive to deliver powerful solutions to common business intelligence challenges.
+* Explore popular and modern machine learning methods including the latest online and deep learning algorithms
+* Learn to increase the accuracy of your predictions by matching the right model with the right problem
+* Master time-series via real-world case studies on operations management, digital marketing, finance, and healthcare
 
 ## What you will learn
 - Understand the main classes of time-series and learn how to detect outliers and patterns
