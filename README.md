@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B17577?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Machine-Learning-for-Time-Series-with-Python
 
 [<img src="./.other/cover.png" width="248">](https://www.amazon.com/Machine-Learning-Time-Python-state/dp/1801819629/)
