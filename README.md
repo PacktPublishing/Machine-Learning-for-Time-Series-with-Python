@@ -45,3 +45,7 @@ This book is ideal for data analysts, data scientists, and Python developers who
 I've heard from a few people struggling with tsfresh and featuretools for chapter 3.
 
 [My PR](https://github.com/blue-yonder/tsfresh/pull/912) for tsfresh was merged mid-December fixing a version incompatibility - featuretools went through many breaking changes with the release of version 1.0.0 (congratulations to the team!). Please see how to fix any problems in the [discussion here](https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python/issues/2).
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801819626">https://packt.link/free-ebook/9781801819626 </a> </p>
