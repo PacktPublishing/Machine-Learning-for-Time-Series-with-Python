@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781801819626)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Machine-Learning-for-Time-Series-with-Python
 
 [<img src="./.other/cover.png" width="248">](https://www.amazon.com/Machine-Learning-Time-Python-state/dp/1801819629/)
